@@ -215,7 +215,7 @@ namespace Week1Practice
 
         public static void LoopThis(int startNum, int endNum)
         {
-            Console.WriteLine("I'm looping from " + startNum + " to " + endNum);
+            Console.WriteLine("I'm looping from " + startNum + " to " + endNum + ".");
 
             int b = startNum;
             for (int i = startNum; i < endNum; i++)
